@@ -35,7 +35,7 @@ Click 👉 [here](https://drive.google.com/drive/folders/13O_tSPj1v45UjdzJoQTp_X
 The original dataset was obtained from a car-sharing company and includes hourly data on customer demand rates, weather conditions, and temperature. Due to privacy considerations, the dataset has been anonymized and sanitized.
 
 ## Author
-[Rosemary ihemeje]
+[Rosemary ihemeje](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B202xL14xR76Trgbi2YEolw%3D%3D)
 
 ## License
 This project is licensed under the Datafied Technologies License - see the LICENSE file for details.
