@@ -5,7 +5,11 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 ## Files
 - **SQL_queries.sql**: Contains SQL queries used to analyze the dataset and answer specific business questions.
 - **Data_Model_ERD.png**: Entity-relationship diagram (ERD) illustrating the data model and relationships between tables.
+- <img width="635" alt="image" src="https://github.com/Barbiespec/CarSharing-Report-with-SQL-Queries/assets/158063327/c905d450-63a8-45ec-8a49-07b720ce2d51">
+
 - **Data_Dictionary.md**: Documentation describing the structure and contents of each table in the dataset.
+- <img width="710" alt="image" src="https://github.com/Barbiespec/CarSharing-Report-with-SQL-Queries/assets/158063327/c879aef3-1e71-4e63-879f-40a033efefd2">
+
 - **README.md**: This file, provides an overview of the repository and instructions for accessing and using the SQL queries.
 
 Click 👉 [here](https://drive.google.com/drive/folders/13O_tSPj1v45UjdzJoQTp_XAIKrhkAdIm?usp=sharing) 👈to see these files.
